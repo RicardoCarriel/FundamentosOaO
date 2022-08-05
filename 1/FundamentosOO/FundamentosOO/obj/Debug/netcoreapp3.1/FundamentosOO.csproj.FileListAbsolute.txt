@@ -1,0 +1,14 @@
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.exe
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.deps.json
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.runtimeconfig.json
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.runtimeconfig.dev.json
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.dll
+C:\labs\FundamentosOO\FundamentosOO\bin\Debug\netcoreapp3.1\FundamentosOO.pdb
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.csproj.AssemblyReference.cache
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.AssemblyInfoInputs.cache
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.AssemblyInfo.cs
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.csproj.CoreCompileInputs.cache
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.dll
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.pdb
+C:\labs\FundamentosOO\FundamentosOO\obj\Debug\netcoreapp3.1\FundamentosOO.genruntimeconfig.cache
