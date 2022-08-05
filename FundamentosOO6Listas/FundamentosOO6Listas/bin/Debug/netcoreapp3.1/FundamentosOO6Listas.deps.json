@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FundamentosOO6Listas/1.0.0": {
+        "runtime": {
+          "FundamentosOO6Listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FundamentosOO6Listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.exe
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.deps.json
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.runtimeconfig.json
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.runtimeconfig.dev.json
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.dll
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\bin\Debug\netcoreapp3.1\FundamentosOO6Listas.pdb
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.csproj.AssemblyReference.cache
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.AssemblyInfoInputs.cache
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.AssemblyInfo.cs
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.csproj.CoreCompileInputs.cache
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.dll
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.pdb
+C:\labs\FundamentosOO6Listas\FundamentosOO6Listas\obj\Debug\netcoreapp3.1\FundamentosOO6Listas.genruntimeconfig.cache
