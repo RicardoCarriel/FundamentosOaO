@@ -1,0 +1,14 @@
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.exe
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.deps.json
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.runtimeconfig.json
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.runtimeconfig.dev.json
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.dll
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\bin\Debug\netcoreapp3.1\FundamentosOO4Events.pdb
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.csproj.AssemblyReference.cache
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.AssemblyInfoInputs.cache
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.AssemblyInfo.cs
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.csproj.CoreCompileInputs.cache
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.dll
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.pdb
+C:\labs\FundamentosOO4Events\FundamentosOO4Events\obj\Debug\netcoreapp3.1\FundamentosOO4Events.genruntimeconfig.cache
